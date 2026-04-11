@@ -1,0 +1,120 @@
+podcast
+CNN One Thing
+Youâve been overwhelmed with headlines all week â what's worth a closer look? One Thing takes you beyond the headlines and helps make sense of what everyone is talking about. Host David Rind talks to experts, reporters on the front lines and the real people impacted by the news about what they've learned â and why it matters. New episodes every Wednesday and Sunday.
+A Health Insurance CEO is Dead. Not Everyone Is Sad.
+CNN One Thing
+Dec 8, 2024
+Following the brazen murder of UnitedHealthcare CEO Brian Thompson in New York City, some were surprised by the lack of sympathy shown by people online. Those who follow the healthcare industry closely, however, say the anger towards the industry has been boiling for a long time.Â
+Guest: Elisabeth Rosenthal, Senior Contributing Editor at KFF Health News & author, âAn American Sickness: How Healthcare Became Big Business and How You Can Take It Backâ
+Episode Transcript
+Erica Hill
+00:00:02
+We do want to get to this breaking news we've been following here at CNN. The CEO of United Health Care shot and killed in New York City, according to a law enforcement official,
+David Rind
+00:00:14
+When the CEO of a major health insurance company was gunned down on a Manhattan sidewalk Wednesday morning, many people were shocked, shocked by how brazen and seemingly prepared this gunman was.
+Brynn Gingras
+00:00:28
+At about 6:40 a.m., the suspect waiting for Brian Thompson and then firing several shots, killing him.
+NYPD
+00:00:34
+I want to be clear at this time, every indication is that this was a premeditated, preplanned, targeted attack.
+David Rind
+00:00:45
+The murder has put other health care companies and their leaders on edge.
+John Miller
+00:00:49
+My friends in the security industry say their phones lit up, asking the higher teams of people to act as security details for hospital chiefs, for health care executives, for people who have nothing to do with the industry, hedge fund bosses and financial people. This has struck a chord out there.
+David Rind
+00:01:09
+There's still a lot we don't know, including the assassins motive. But we do have some potential clues.
+Brynn Gingras
+00:01:15
+Sources say at the crime scene, they found a shell casing and live rounds etched with the words delay and depose. They're asking, was this retaliation over a health care issue? As a popular health care industry phrase is delay, deny and defend.
+David Rind
+00:01:34
+But as the investigation continues, the basic tragic facts remain. A man is dead. His wife is left without a husband, his two sons now fatherless. Yet on social media, the tone has been very different. We've seen flippant or even caustic reactions to Thompson's death. Some people saying they have no sympathy for this highly paid executive who led a company they say could not care less about them or their sick family members.
+Woman
+00:02:04
+Of course, I would have been happy to send my condolences after the United Health care CEO was killed this afternoon. However, unfortunately, sympathy requires a prior authorization, and I have to deny that request.
+David Rind
+00:02:19
+My guest is Elisabeth Rosenthal. She's a senior contributing editor at KFF Health News and author of the book An American Sickness How Health Care Became Big Business and How You Can Take It Back. We're going to talk about how anger directed at health insurers like United Health Care may be fueling the vitriol. From CNN, this is One Thing I'm David Rind.
+David Rind
+00:02:48
+Elizabeth, thanks so much for being here.
+Elisabeth Rosenthal
+00:02:50
+Thanks for having me.
+David Rind
+00:02:51
+So as we sit here on Friday morning, law enforcement is still sorting out exactly what the motive is here in this case. But some words found on the ammo used in the shooting might actually give us some clues. According to law enforcement sources, the words delay and typos were found on a live round and shell casing. And immediately after we learned that, some experts were quick to point out how those words actually relate to Brian Thomson's industry, the health insurance industry. Can you just explain that connection?
+Elisabeth Rosenthal
+00:03:22
+Yes, there's all sorts of clues suggesting that the murderer may have had a beef with the health insurance industry and deny, delay, depose. There are terms that kind of surround the health insurance industry and peoples or importantly, people's experience of it. You put in a claim for a major surgery. You need an MRI. And you know, the first thing that any insurers do and rates are reportedly as high as 17 or 34% is say, we're going to deny this. And we ran an article for Health news that some insurers actually have a physician called a denial nurse.
+David Rind
+00:04:06
+Denial nurse.
+Elisabeth Rosenthal
+00:04:07
+A denial nurse whose job is just to say no. Right. Wow. That's pretty crazy. And then, you know, the delay is okay. Yes, sure. We're reviewing your claim, your appeal, you know, and that can take two weeks to two months. And then, of course, people get sicker and sicker in the meantime. So there's a lot of ins here, but I would say nothing definitive yet. So we can't say, yes, this is this is the motive.
+David Rind
+00:04:39
+Right after this happened, a lot of people online did not show a lot of sympathy. Like when this happened. I saw a comment that said something along the lines of, bullets are a preexisting condition. There were 57,000 laughing emoji reactions on a Facebook post from United Health Care's parent company. Like, were you surprised to see that kind of response?
+Elisabeth Rosenthal
+00:04:59
+No, not at all. I mean, of course, I should start by saying no one deserves to be killed over, you know, their job or what they do. But but that kind of a tsunami of comments represents a collective frustration with the industry and in fact, real damage, real harms, both financial and medical that people experience when insurers deny and delay paying claims. We run a project at calf Health News called Bill of the Month. And we have almost 10,000 submissions over six years. And I looked yesterday over the United Health care denial submissions. And boy, you know, there's so much anger and frustration there. And, you know, they're coming to us, a little journalism outfit to say, can you help me? Can you help me? And like, come on. In a system that serves, you know, 300 million plus people is the best solution to come to care for health news when you know you can't get your surgery approved or you you know, you're walking around with a terrible hip because your insurer has delayed approval. And you know, when people when the insurer delays, what happens is people who really need the treatment, they have to pay. We did a study called Diagnosis Debt and 100 million Americans, that's about a third of the country have medical debt and about 15% of them feel like they will never be able to pay that off in their lifetime. Wow. So, you know, if you want to even forget that, that the illness and the suffering that that denials result in, think about the financial harms. People go bankrupt. People have their houses taken away. It's become a very predatory industry. And that's not the insurers. That's mostly the hospitals producing the medical debt. But the underlying reason is often because an insurer has an agreed to pay for a treatment.
+David Rind
+00:07:11
+Well, so why do claims get denied? What's the reasoning they take?
+Elisabeth Rosenthal
+00:07:16
+Yeah, that's the big why. Right. Which which every patient is asking why. And I think the answer is there's some evidence from a ProPublica series last year that some of this is just automated. You know, it's like a program looks at the claim and says, no, these are the five reasons we approve of this kind of claim. And one of those is not in there. So deny. I mean, but we've had it and we've had insurance denials sent to. Literally newborns, you know, where where they get a letter. The first letter in life is a denial letter saying we don't approve your fourth night in the neonatal intensive care unit because you were breathing on your own and you could take a bottle. I mean, literally, I have that letter.
+David Rind
+00:08:06
+Is it literally ddressed to the newborns.
+Elisabeth Rosenthal
+00:08:07
+Yes. Sent to the newborn. You know, a human didn't write that letter. Yeah. I mean, we have other things from hospitals and insurers saying, you can't pay the half million dollar bill. Well, we'll offer you a payment plan of $40,000 a month. This is one of our bill of the month patients. So really, what a human right that so a lot of this is just automated. And the really sad fact, I think for us, patient is a calf study showed that only about 1% of people go back and appeal claims. Most just go without. And that's the harms. So, again, we don't know the actual motive of the shooter, but we do know the motive of the 57,000 people who responded that way on social media.
+Woman
+00:09:05
+They also denied my son his affair was ankle for foot orthotics because he did have a stroke. So half of his body doesn't work the same as the other half and he needs those to walk. They denied them because he grew too fast. They said he just had some five months ago was like, Yeah. And then he grew because he was two years old. And two year olds tend to do that.
+Elisabeth Rosenthal
+00:09:23
+Because the depth of the frustration and anger at this industry, I think rivals no other, including maybe, you know, the defense industry or farm. Maybe farm is up there, too. But, you know, the whole medical system people don't trust, they don't like and it doesn't treat patients well.
+Woman
+00:09:44
+Lift this knee. Can you move that ankle? Now, I'll help you to the bathroom. I had to give her haircuts and showers. And until you've had to do that with your own mother, you can't know what it's like. But to United Health care, she was a number. She was a dollar amount. $90 billion in profits. And anyone on here who is saying, all of you commenters have no compassion for him. You're right. We don't.
+David Rind
+00:10:22
+I mean, how did it get to this place? I realize you wrote a whole book on this subject with people should check out, but can you give us the CliffsNotes version?
+Elisabeth Rosenthal
+00:10:29
+Well, you know, the thing is, when I wrote that book, I think it was 2000, 17 or 18, it's called An American Sickness How Health Care Became Big Business and How You Can Take It Back. I literally thought, I'm going to explain how we got to this terrible place and it'll all be solved in the book will go out of print. And here we are, you know, eight years later or seven years later and everything is still relevant and not much has changed. I mean, there have been baby steps such as the No Surprises Act, which helps consumers. But one of the things that one of my colleagues at Kpfk pointed out to me is the ACA says that insurers are supposed to report their denial rates to CMS. That's in the law and that has never been enforced. So we don't even know how often insurers deny things. And when you're picking an insurance plan, wouldn't you want to know that? I would.
+David Rind
+00:11:32
+Definitely. I mean, so you've covered this industry for a long time. Have you heard about other executives or just rank and file people who work in the industry afraid of threats against them, whether it be just online stuff or actual threats of physical violence?
+Elisabeth Rosenthal
+00:11:48
+No, I haven't, although I'm sure they get them. I mean, when I read our our Bill of the month submissions, you know, I looked through them carefully to say, does anyone and with like, I could kill someone, I'm so angry and no one does. But again, it doesn't totally surprise me if this is related to an insurance denial, which of course, we don't know yet. But I do think there's there's anger at the executives. There's anger when people say, you didn't pay for my thousand dollar test, but you're making $10 million a year, which, by the way, in the industry is not the highest. Like, wow, I heard that salary. And I was like, yeah, that's not that's not way up there.
+David Rind
+00:12:39
+It sounds like what you described there is just a, you know, a kind of faceless impersonality to all these interactions, whether it be like actual I or just the distance people feel when they try to approach these companies about an issue they're having or a denial that they've suffered and they're just not getting anything back. And then they see the pay packages of these executives and they're like, what gives?
+Elisabeth Rosenthal
+00:13:04
+Yeah, I think that's the disconnect that people feel. And when I look at our Bill of the month submissions there, and these are not people who like filed an appeal once, you know, they went back and forth and we've all had this experience. They're on phone trees. They get a representative who may or may not be a bot. They say someone will call you back. No one ever calls you back. These people have made dozens of calls to to get an insurance problem rectified with no result. In the end, if this is related to the insurance industry, it was only a matter of time that something like this would happen. It really was. And I think that's the scary part. And is the answer to increased security. Well, maybe. But maybe the answer is to do a little remediation within the industry.
+David Rind
+00:14:03
+Like, you think that, you know, in a perfect world, the industry would really take a step back and say, hey, our policies could be having a real negative impact on people.
+Elisabeth Rosenthal
+00:14:12
+Well, I think it's the customer service aspect. Like when people file an appeal, take it seriously, have, you know, real deadlines for how long that should take. Have a real person you can speak to. I mean, people are getting the runaround when they have problems with their insurance. And, you know, I read these things and I think, hey, I'm a health care reporter. I've done this my whole life. I should be this much of an activist. I should push. But who has the hours of the day? These are people literally spending hours on the phone to get an insurance claim rectified. And sometimes they do. And sometimes they go into that because they care.
+David Rind
+00:14:57
+We should say United Health Care said in a statement to CNN that its main priorities are to support Thompson's family, ensure the safety of its employees, and work with law enforcement to bring the gunman to justice. They also released an internal memo saying they would increase security at some of their office locations. Elizabeth, thanks so much. Really appreciate it.
+Elisabeth Rosenthal
+00:15:18
+Thanks for having me.
+David Rind
+00:15:27
+One Thing is a production of CNN Audio. This episode was produced by Paola Ortiz and me, David Rind. Our senior producers are Felicia Patinkin and Faiz Jamil Matt Dempsey is our production manager. Dan Dzula is our technical director, and Steve Licktieg is the executive producer of CNN Audio. We get support from Haley Thomas, Alex Manasseri, Robert Mathers, Jon Dianora, Leni Steinhardt, Jamus Andrest, Nichole Pesaru and Lisa Namerow. Special thanks to Wendy Brundidge and Katie Hinman. We'll be back on Wednesday. I'll talk to you then.
